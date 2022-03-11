@@ -1,1 +1,0 @@
-This is my first readme file in the zero_day directory
